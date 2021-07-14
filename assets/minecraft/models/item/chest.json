@@ -1,0 +1,45 @@
+{
+    "parent": "builtin/entity",
+    "textures": {
+        "particle": "block/oak_planks"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.25, 0.25, 0.25 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1, 1, 1]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        }
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 11350001 }, "model": "magic_tower:item/level1_core"},
+        { "predicate": { "custom_model_data": 11350002 }, "model": "magic_tower:item/level1_coreblock"},
+        { "predicate": { "custom_model_data": 11350003 }, "model": "magic_tower:item/level1_ammunition_clip1"},
+        { "predicate": { "custom_model_data": 11350004 }, "model": "magic_tower:item/level1_ammunition_clip"},
+        { "predicate": { "custom_model_data": 11350005 }, "model": "magic_tower:item/background"}
+    ]
+}

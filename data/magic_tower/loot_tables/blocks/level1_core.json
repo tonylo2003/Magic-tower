@@ -1,0 +1,21 @@
+{
+	"type": "generic",
+	
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "chest",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{Items:[{Count:1b,id:\"minecraft:barrier\",Slot:13b,tag:{RepairCost:0,display:{Name:'{\"text\":\"magic_tower_level1_core\"}'}}}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

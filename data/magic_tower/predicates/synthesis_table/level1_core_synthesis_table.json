@@ -1,0 +1,297 @@
+[
+	{
+		"condition": "location_check",
+		"predicate": {
+			"block": {
+				"blocks": [
+					"crafting_table"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": 2,
+		"offsetZ": 1,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": 2,
+		"offsetZ": -1,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": -2,
+		"offsetZ": 1,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": -2,
+		"offsetZ": -1,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": 1,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": 1,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": -1,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX": -1,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"smooth_stone_slab"
+				],
+				"state": {
+					"type":"bottom"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX":2,
+		"offsetZ":2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"iron_block"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX":2,
+		"offsetZ":-2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"iron_block"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX":-2,
+		"offsetZ":2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"iron_block"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetX":-2,
+		"offsetZ":-2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"iron_block"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY":1,
+		"offsetX":2,
+		"offsetZ":2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"amethyst_block"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY":1,
+		"offsetX":2,
+		"offsetZ":-2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"amethyst_block"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY":1,
+		"offsetX":-2,
+		"offsetZ":2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"amethyst_block"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY":1,
+		"offsetX":-2,
+		"offsetZ":-2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"amethyst_block"
+				]
+			}
+		}
+	},
+
+	{
+		"condition": "location_check",
+		"offsetY":2,
+		"offsetX":2,
+		"offsetZ":2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"lightning_rod"
+				],
+				"state": {
+					"facing":"up"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY":2,
+		"offsetX":2,
+		"offsetZ":-2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"lightning_rod"
+				],
+				"state": {
+					"facing":"up"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY":2,
+		"offsetX":-2,
+		"offsetZ":2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"lightning_rod"
+				],
+				"state": {
+					"facing":"up"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY":2,
+		"offsetX":-2,
+		"offsetZ":-2,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"lightning_rod"
+				],
+				"state": {
+					"facing":"up"
+				}
+			}
+		}
+	}
+]

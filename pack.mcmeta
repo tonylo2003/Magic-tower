@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": [
+            {
+                "text": "魔法塔",
+                "color": "gold"
+            },
+            {
+                "text": "by tonylo",
+                "color": "green"
+            }
+        ]
+    }
+}
