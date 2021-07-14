@@ -11,7 +11,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{Items:[{Count:1b,id:\"minecraft:barrier\",Slot:13b,tag:{RepairCost:0,display:{Name:'{\"text\":\"magic_tower_level1_core\"}'}}}]}"
+							"tag": "{display:{Name:'[{\"translate\":\"block.magic_tower.level1_core\"}]'},CustomModelData:11350001,BlockEntityTag:{Items:[{Count:1b,id:\"minecraft:barrier\",Slot:13b,tag:{RepairCost:0,display:{Name:'{\"text\":\"magic_tower_level1_core\"}'}}}]}}"
 						}
 					]
 				}
