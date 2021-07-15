@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"please":{
+			"trigger": "placed_block",
+			"conditions": {
+				"block": "chest",
+				"item": {
+					"nbt": "{CustomModelData:11350001,BlockEntityTag:{Items:[{Count:1b,id:\"minecraft:barrier\",Slot:13b,tag:{RepairCost:0,display:{Name:'{\"text\":\"magic_tower_level1_core\"}'}}}]}}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "magic_tower:blocks/level1_core/place_advancement"
+	}
+}
